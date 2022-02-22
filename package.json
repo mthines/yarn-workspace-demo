@@ -1,0 +1,7 @@
+{
+  "name": "my-root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
